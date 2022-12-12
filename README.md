@@ -5,7 +5,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/JamesAlbrighto4?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-feolu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akintunde-feolu-975831221/)](https://www.linkedin.com/in/akintunde-feolu-975831221/)
-![GitHub followers](https://img.shields.io/github/followers/hall231?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/divi-code?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
