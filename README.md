@@ -14,9 +14,9 @@
 const feolu = {
     pronouns: "He" | "Him",
     code: ["Javascript", "HTML", "python", "CSS"],
-    askMeAbout: ["web dev", "design", "blockchain dev", "defi" "dapp"],
+    askMeAbout: ["NFT", "Blockchain", "Crypto Trading", "defi" "dapp"],
     technologies: {
-        smartContract: ["Ethereum", "Binance Smart Chain" "Cardano"],
+        smartContract: ["Ethereum", "BSC", "Polygon" "Cardano"],
         frontEnd: {
             js: ["React-native", "Nuxt", "ReactJS"],
             css: ["tailwind css", "vuetify", "bootstrap"]
@@ -43,7 +43,7 @@ const feolu = {
 
 ```text
  
-🌆 Daytime    8 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌆 Daytime    8 commits    ██████░░░░░░░░░░░░░░░░░░░   25.08% 
 🌃 Evening    2 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
 
 ```
@@ -56,12 +56,12 @@ const feolu = {
 
 💬 Languages: 
 JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-ReactJS                    6 hrs 40 mins       ███████░░░░░░░░░░░░░░░   39.01%
-React Native                    6 hrs 40 mins       ███████░░░░░░░░░░░░░░░   39.01%
+ReactJS                  6 hrs 40 mins       ███████░░░░░░░░░░░░░░░   39.01%
+React Native             6 hrs 40 mins       ███████░░░░░░░░░░░░░░░   39.01%
 Expo                     6 hrs 40 mins       ███████░░░░░░░░░░░░░░░   32.01%
 
 💻 Operating Systems: 
-Mac                  17 hrs 5 mins       █████████████████████████   100.0%
+Mac                      17 hrs 5 mins       █████████████████████████   100.0%
 
 ```
 <!--END_SECTION:waka-->
