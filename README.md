@@ -1,10 +1,10 @@
 <h2>(ahoy) 🙏🏻, I'm ƑƸ𐒄Ɩ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">🚀
-<p><em>Fullstack Blockchain Developer at <a href="http://www.fiverr.com/chainexplicate/">Fiverr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Fullstack Blockchain Developer at <a href="http://www.fiverr.com/">Fiverr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/JamesAlbrighto4?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-feolu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akintunde-feolu-975831221/)](https://www.linkedin.com/in/akintunde-feolu-975831221/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-feolu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/femi-akin/)](https://www.linkedin.com/in/femi-akin)
 ![GitHub followers](https://img.shields.io/github/followers/divi-code?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me)
 
